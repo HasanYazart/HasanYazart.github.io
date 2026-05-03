@@ -1,0 +1,166 @@
+/* Genel Ayarlar ve Renk Paleti */
+:root {
+    --bg-main: #070b14;
+    --bg-card: #111827;
+    --text-main: #e2e8f0;
+    --text-muted: #94a3b8;
+    --accent-blue: #00d2ff;
+    --accent-dark: #3a86ff;
+}
+
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.text-center { text-align: center; }
+.accent-color { color: var(--accent-blue); }
+
+/* Üst Başlık (Hero) */
+.hero {
+    padding: 80px 0 50px;
+    background: radial-gradient(circle at center, #111d35 0%, var(--bg-main) 70%);
+    border-bottom: 1px solid #1e293b;
+}
+
+.glow-text {
+    font-size: 3rem;
+    letter-spacing: 3px;
+    color: #ffffff;
+    text-shadow: 0 0 10px rgba(0, 210, 255, 0.5);
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    color: var(--accent-blue);
+    font-weight: 300;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.contact-info span {
+    display: inline-block;
+    margin: 0 15px;
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+.vision-box {
+    margin-top: 40px;
+    background: rgba(17, 24, 39, 0.7);
+    border: 1px solid #1e293b;
+    padding: 20px;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.vision-box h4 { margin: 0 0 10px; color: var(--accent-blue); }
+.vision-box p { margin: 0; font-style: italic; color: var(--text-muted); }
+
+/* Seksiyonlar ve Izgara Yapısı */
+.section { padding: 60px 0; border-bottom: 1px solid #1e293b; }
+.section-title {
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.section-title i { color: var(--accent-blue); }
+
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
+.grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+
+@media (max-width: 768px) {
+    .grid-2, .grid-3 { grid-template-columns: 1fr; }
+}
+
+/* Kartlar */
+.card, .box {
+    background: var(--bg-card);
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid #1e293b;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover, .box:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 210, 255, 0.1);
+    border-color: var(--accent-dark);
+}
+
+.feature-list { list-style: none; padding: 0; color: var(--text-muted); }
+.feature-list li { margin-bottom: 10px; }
+.feature-list i { color: var(--accent-blue); margin-right: 8px; }
+
+.box-icon { font-size: 2.5rem; color: var(--accent-blue); margin-bottom: 15px; }
+
+/* Terminal Tasarımı */
+.terminal-window {
+    background: #0d1117;
+    border-radius: 8px;
+    border: 1px solid #30363d;
+    overflow: hidden;
+    margin-top: 20px;
+    font-family: 'Consolas', 'Courier New', monospace;
+}
+.terminal-header {
+    background: #161b22;
+    padding: 10px;
+    border-bottom: 1px solid #30363d;
+    display: flex;
+    gap: 6px;
+}
+.dot { width: 12px; height: 12px; border-radius: 50%; }
+.dot.red { background: #ff5f56; }
+.dot.yellow { background: #ffbd2e; }
+.dot.green { background: #27c93f; }
+.terminal-body { padding: 15px; font-size: 0.9rem; color: #c9d1d9; }
+.prompt { color: #2ea043; font-weight: bold; margin-right: 5px; }
+.output { color: #8b949e; margin-left: 15px; }
+.github-link {
+    display: inline-block; margin-top: 10px; color: #58a6ff; text-decoration: none; border-bottom: 1px dashed #58a6ff;
+}
+
+/* Yetenek Barları */
+.skill-row { margin-bottom: 20px; }
+.skill-name { display: block; margin-bottom: 8px; font-weight: 500; }
+.progress-bar {
+    width: 100%;
+    background: #1e293b;
+    border-radius: 20px;
+    height: 24px;
+    overflow: hidden;
+}
+.progress-fill {
+    background: linear-gradient(90deg, var(--accent-dark), var(--accent-blue));
+    height: 100%;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 15px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.85rem;
+}
+
+/* Başarı Kartı */
+.success-card { background: linear-gradient(145deg, #111827 0%, #0d1a30 100%); border: 1px solid var(--accent-dark); }
+.quote { font-style: italic; color: var(--accent-blue); font-size: 1.1rem; margin-top: 20px; }
+
+/* Footer */
+footer { padding: 60px 0 40px; background: #05080f; border-top: 1px solid #1e293b; }
