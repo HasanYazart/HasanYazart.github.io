@@ -3,134 +3,226 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hasan Yazar | Engineering Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-    <!-- İkonlar için FontAwesome -->
+    <title>Hasan Yazar | Premium Engineering Portfolio</title>
+    
+    <!-- Google Fonts: Outfit for Headings, Inter for Body -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <!-- Üst Başlık / Hero -->
-    <header class="hero">
-        <div class="container text-center">
-            <h1 class="glow-text">HASAN YAZAR</h1>
-            <h3 class="subtitle">Bilgisayar Mühendisi | Yapay Zeka & Veri Mimarisi</h3>
-            <div class="contact-info">
-                <span><i class="fas fa-envelope"></i> tt41468@gmail.com</span>
-                <span><i class="fab fa-linkedin"></i> linkedin.com/in/hasanyazar12</span>
-            </div>
-            
-            <div class="vision-box">
-                <h4>MÜHENDİSLİK VİZYONU</h4>
-                <p>Karmaşık sistemleri optimize eden, veri odaklı ve yenilikçi çözümler.</p>
-            </div>
-        </div>
-    </header>
+    <!-- Background Animated Blobs -->
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
 
     <div class="container">
-        <!-- Projeler Bölümü -->
-        <section class="section">
-            <h2 class="section-title"><i class="fas fa-microchip"></i> ÖNE ÇIKAN PROJELER</h2>
+        
+        <!-- Hero Section -->
+        <header class="hero">
+            <div class="hero-content text-center fade-in">
+                <div class="status-badge">
+                    <span class="pulse-dot"></span> Open to Innovations
+                </div>
+                <h1 class="gradient-text title-main">HASAN YAZAR</h1>
+                <h2 class="subtitle">Bilgisayar Mühendisi | Yapay Zekâ & Yazılım Mimarisi</h2>
+                
+                <div class="contact-links">
+                    <a href="mailto:tt41468@gmail.com" class="contact-btn"><i class="fas fa-envelope"></i> tt41468@gmail.com</a>
+                    <a href="https://linkedin.com/in/hasanyazar12" target="_blank" class="contact-btn"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                </div>
+            </div>
+        </header>
+
+        <!-- Vision / About Section -->
+        <section class="section vision-section fade-in">
+            <h2 class="section-title"><i class="fas fa-compass"></i> Gelecek Vizyonu & Hakkımda</h2>
+            <div class="glass-card vision-card">
+                <i class="fas fa-quote-left quote-icon"></i>
+                <p class="vision-text">
+                    "Mühendisliğin sürekli bir dönüşüm içinde olduğunun bilinciyle, teorik bilgimi pratik projelerle pekiştirmeye odaklanıyorum. 
+                    Şu anda özellikle <strong>Yapay Zekâ ve Veri İşleme</strong> süreçlerinde daha derin yetkinlikler kazanmak adına 
+                    <span class="highlight">Python ekosistemine</span> yoğunlaşmış durumdayım."
+                </p>
+                <p class="vision-text">
+                    Büyük ölçekli sistemlerin tasarımı ilgimi çektiği için mimari tarafta <strong>Mikroservisler</strong>, 
+                    backend tarafında ise <strong>Java ve SQL</strong> üzerindeki uzmanlığımı her geçen gün artırıyorum. 
+                    Bir sonraki hedefim, e-ticaret ve veri analitiği alanlarında fiyat-performans indeksleme algoritmaları üzerinde çalışarak 
+                    yapay zekayı gerçek dünya problemlerine entegre etmeye devam etmek.
+                </p>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section class="section skills-section fade-in">
+            <h2 class="section-title"><i class="fas fa-layer-group"></i> Yetkinlikler & Teknik Uzmanlıklar</h2>
             
-            <div class="grid-2">
-                <!-- Proje 1 -->
-                <div class="card">
-                    <h3 class="accent-color">AI AFET YÖNETİMİ</h3>
-                    <h4>Afet Sonrası İhtiyaç Ölçeklendirme</h4>
-                    <p>Kriz anlarında hayati önem taşıyan verileri analiz eden ve kaynak dağıtımını optimize eden yapay zeka tabanlı karar destek sistemi.</p>
-                    <ul class="feature-list">
-                        <li><i class="fas fa-check-circle"></i> Sinir Ağları ile Hasar Tahminlemesi</li>
-                        <li><i class="fas fa-check-circle"></i> Gerçek Zamanlı Veri İşleme Hattı</li>
+            <div class="skills-grid">
+                <!-- Skill Category 1 -->
+                <div class="glass-card skill-box">
+                    <div class="skill-header">
+                        <i class="fas fa-code skill-icon"></i>
+                        <h3>Programlama Dilleri</h3>
+                    </div>
+                    <ul class="skill-tags">
+                        <li class="tag java">Java <span>Orta Seviye</span></li>
+                        <li class="tag sql">SQL <span>Yetkin</span></li>
+                        <li class="tag python">Python <span>Geliştirme Aşamasında</span></li>
                     </ul>
                 </div>
 
-                <!-- Proje 2 -->
-                <div class="card terminal-card">
-                    <h3 class="accent-color">TODO CLI APP</h3>
-                    <h4>Yüksek Performanslı Terminal Yönetimi</h4>
-                    <p>Geliştiriciler için odaklanmış çalışma alanı sunan, hafif ve güçlü bir komut satırı aracı.</p>
-                    <div class="terminal-window">
-                        <div class="terminal-header">
-                            <span class="dot red"></span><span class="dot yellow"></span><span class="dot green"></span>
-                        </div>
-                        <div class="terminal-body">
-                            <p><span class="prompt">$</span> todo-cli list --status urgent</p>
-                            <p class="output">[!] 2 High priority tasks found.</p>
-                            <p><span class="prompt">$</span> git push origin main</p>
-                            <a href="https://github.com/HasanYazart/todo-cli-app" target="_blank" class="github-link">github.com/HasanYazart/todo-cli-app</a>
-                        </div>
+                <!-- Skill Category 2 -->
+                <div class="glass-card skill-box">
+                    <div class="skill-header">
+                        <i class="fas fa-tools skill-icon"></i>
+                        <h3>Araçlar & Ekosistem</h3>
+                    </div>
+                    <ul class="skill-tags">
+                        <li class="tag">Git</li>
+                        <li class="tag">GitHub</li>
+                        <li class="tag">VS Code</li>
+                        <li class="tag">IntelliJ IDEA</li>
+                        <li class="tag">Jira</li>
+                    </ul>
+                </div>
+
+                <!-- Skill Category 3 -->
+                <div class="glass-card skill-box">
+                    <div class="skill-header">
+                        <i class="fas fa-cubes skill-icon"></i>
+                        <h3>Mimari & Metodolojiler</h3>
+                    </div>
+                    <ul class="skill-tags">
+                        <li class="tag highlight-tag">Mikroservis Mimarisi</li>
+                        <li class="tag">OOP (Nesne Yönelimli Prog.)</li>
+                        <li class="tag">Proje Yönetimi</li>
+                        <li class="tag">Takım Çalışması</li>
+                    </ul>
+                </div>
+
+                <!-- Skill Category 4 -->
+                <div class="glass-card skill-box">
+                    <div class="skill-header">
+                        <i class="fas fa-network-wired skill-icon"></i>
+                        <h3>Çalışma Alanları</h3>
+                    </div>
+                    <ul class="skill-tags">
+                        <li class="tag ai">Yapay Zekâ</li>
+                        <li class="tag">Donanım</li>
+                        <li class="tag">IoT (Nesnelerin İnterneti)</li>
+                        <li class="tag">Veri İşleme</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <!-- Featured Projects Section -->
+        <section class="section projects-section fade-in">
+            <h2 class="section-title"><i class="fas fa-rocket"></i> Öne Çıkan Projeler</h2>
+            
+            <div class="projects-grid">
+                
+                <!-- Project 1 -->
+                <div class="glass-card project-card featured">
+                    <div class="project-badge"><i class="fas fa-award"></i> TÜBİTAK Onaylı</div>
+                    <h3 class="project-title">TÜBİTAK 2209 - Kapalı Alanlarda Saldırgan Tespiti</h3>
+                    <p class="project-desc">
+                        Kapalı alanlardaki güvenlik tehditlerini minimize etmek amacıyla, potansiyel saldırganları ve şüpheli hareketleri önceden tespit eden yenilikçi bir sistem üzerine çalışıyorum.
+                    </p>
+                    <div class="project-highlights">
+                        <div class="highlight-item"><i class="fas fa-microchip"></i> Donanım Entegrasyonu</div>
+                        <div class="highlight-item"><i class="fas fa-wifi"></i> IoT Altyapısı</div>
+                        <div class="highlight-item"><i class="fas fa-brain"></i> Yapay Zekâ Çıkarımı</div>
+                    </div>
+                    <div class="project-footer">
+                        <span>Aktif Ar-Ge ve Takım Yönetimi</span>
                     </div>
                 </div>
+
+                <!-- Project 2 -->
+                <div class="glass-card project-card">
+                    <h3 class="project-title">AI Tabanlı Afet Sonrası İhtiyaç Ölçeklendirme</h3>
+                    <p class="project-desc">
+                        Afet sonrasında karmaşıklaşan lojistik ve ihtiyaç dağıtım süreçlerini optimize etmek için geliştirdiğim, makine öğrenmesi destekli bir yönetim sistemidir.
+                    </p>
+                    <div class="project-highlights">
+                        <div class="highlight-item"><i class="fas fa-sitemap"></i> Mikroservis Mimarisi</div>
+                        <div class="highlight-item"><i class="fas fa-database"></i> Büyük Ölçekli Veri</div>
+                        <div class="highlight-item"><i class="fas fa-robot"></i> ML Model Eğitimi</div>
+                    </div>
+                </div>
+
+                <!-- Project 3 -->
+                <div class="glass-card project-card">
+                    <h3 class="project-title">Python (Flask) & SQLite Tabanlı Todo-Pomodoro</h3>
+                    <p class="project-desc">
+                        Kişisel üretkenliği artırmak amacıyla geliştirilmiş, backend süreçlerini kendim yönettiğim bir web uygulamasıdır.
+                    </p>
+                    <div class="project-highlights">
+                        <div class="highlight-item"><i class="fab fa-python"></i> Flask Framework</div>
+                        <div class="highlight-item"><i class="fas fa-server"></i> SQLite Veritabanı</div>
+                        <div class="highlight-item"><i class="fas fa-sync-alt"></i> Tam CRUD Mimari</div>
+                    </div>
+                </div>
+
+                <!-- Project 4 -->
+                <div class="glass-card project-card">
+                    <h3 class="project-title">Mini Redis (In-Memory Veri Depolama)</h3>
+                    <p class="project-desc">
+                        Temel Redis mimarisinden ilham alarak geliştirdiğim, hafif ve bellek içi (in-memory) çalışan bir anahtar-değer depolama sistemidir.
+                    </p>
+                    <div class="project-highlights">
+                        <div class="highlight-item"><i class="fas fa-memory"></i> In-Memory Mimarisi</div>
+                        <div class="highlight-item"><i class="fas fa-bolt"></i> Caching Optimizasyonu</div>
+                        <div class="highlight-item"><i class="fas fa-tachometer-alt"></i> Düşük Seviye Veri</div>
+                    </div>
+                </div>
+
             </div>
         </section>
 
-        <!-- Veri Mimarisi & DB Tasarımı -->
-        <section class="section">
-            <h2 class="section-title"><i class="fas fa-database"></i> VERİ MİMARİSİ & DB TASARIMI</h2>
-            <div class="grid-3">
-                <div class="box text-center">
-                    <i class="fas fa-network-wired box-icon"></i>
-                    <h4>Veri Bütünlüğü</h4>
-                    <p>Karmaşık ilişkisel şemaların hatasız ve ölçeklenebilir şekilde kurgulanması.</p>
-                </div>
-                <div class="box text-center">
-                    <i class="fas fa-bolt box-icon"></i>
-                    <h4>Performans</h4>
-                    <p>Sorgu optimizasyonu ve indeksleme ile milisaniye seviyesinde erişim hızı.</p>
-                </div>
-                <div class="box text-center">
-                    <i class="fas fa-shield-alt box-icon"></i>
-                    <h4>Güvenlik</h4>
-                    <p>Veri tabanı katmanında şifreleme ve gelişmiş yetkilendirme mimarisi.</p>
-                </div>
-            </div>
-        </section>
-
-        <!-- Teknik Yetkinlikler -->
-        <section class="section">
-            <h2 class="section-title"><i class="fas fa-code"></i> TEKNİK YETKİNLİK SPEKTRUMU</h2>
-            <div class="skills-container">
-                <div class="skill-row">
-                    <span class="skill-name">Java / Backend</span>
-                    <div class="progress-bar"><div class="progress-fill" style="width: 90%;">90%</div></div>
-                </div>
-                <div class="skill-row">
-                    <span class="skill-name">Python / AI Frameworks</span>
-                    <div class="progress-bar"><div class="progress-fill" style="width: 85%;">85%</div></div>
-                </div>
-                <div class="skill-row">
-                    <span class="skill-name">SQL / DB Management</span>
-                    <div class="progress-bar"><div class="progress-fill" style="width: 80%;">80%</div></div>
-                </div>
-                <div class="skill-row">
-                    <span class="skill-name">System Arch / MIPS32</span>
-                    <div class="progress-bar"><div class="progress-fill" style="width: 70%;">70%</div></div>
-                </div>
-            </div>
-        </section>
-
-        <!-- TÜBİTAK Onaylanmış Başarı -->
-        <section class="section">
-            <div class="card success-card text-center">
-                <h3 class="accent-color"><i class="fas fa-award"></i> TÜBİTAK 2209-A Desteği</h3>
-                <p>Akıllı Güvenlik Analizi projesi ile ulusal Ar-Ge desteği kazanan, bilimsel ve teknik açıdan onaylanmış projeler üretme yetkinliği.</p>
-                <p class="quote">"Teknoloji, doğru mimari ile birleştiğinde toplumsal faydaya dönüşür."</p>
-            </div>
-        </section>
     </div>
 
     <!-- Footer -->
-    <footer>
+    <footer class="footer">
         <div class="container text-center">
-            <h2 class="glow-text">İLETİŞİM</h2>
-            <p>Potansiyel iş birlikleri ve projeler için ulaşabilirsiniz.</p>
-            <div class="contact-info" style="margin-top: 15px;">
-                <span><i class="fas fa-envelope"></i> tt41468@gmail.com</span>
-                <span><i class="fab fa-linkedin"></i> linkedin.com/in/hasanyazar12</span>
+            <h3 class="gradient-text footer-title">HASAN YAZAR</h3>
+            <p>Sürekli Öğrenme, Sürekli Gelişim</p>
+            <div class="footer-bottom">
+                &copy; 2026 Tüm Hakları Saklıdır. Engineered with passion.
             </div>
-            <p style="margin-top: 30px; font-size: 0.9rem; color: var(--text-muted);">GELECEĞİ KODLUYORUZ © 2026</p>
         </div>
     </footer>
 
+    <!-- Intersection Observer for Scroll Animations -->
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const faders = document.querySelectorAll('.fade-in');
+            const appearOptions = {
+                threshold: 0.15,
+                rootMargin: "0px 0px -50px 0px"
+            };
+
+            const appearOnScroll = new IntersectionObserver(function(entries, observer) {
+                entries.forEach(entry => {
+                    if (!entry.isIntersecting) {
+                        return;
+                    } else {
+                        entry.target.classList.add('appear');
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, appearOptions);
+
+            faders.forEach(fader => {
+                appearOnScroll.observe(fader);
+            });
+        });
+    </script>
 </body>
 </html>
