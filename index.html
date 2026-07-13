@@ -3,16 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hasan Yazar — Bilgisayar Mühendisi</title>
-    <meta name="description" content="Hasan Yazar — Yapay Zekâ, Yazılım Mimarisi ve Veri İşleme alanlarında çalışan Bilgisayar Mühendisi.">
+    <title>Hasan Yazar — Bilgisayar Mühendisi & Yapay Zekâ Geliştiricisi</title>
+    <meta name="description" content="Hasan Yazar'ın yapay zekâ, derin öğrenme, doğal dil işleme, IoT ve yazılım mimarisi projelerini keşfedin.">
     <meta name="author" content="Hasan Yazar">
+    <meta name="keywords" content="Hasan Yazar, bilgisayar mühendisi, yapay zekâ, derin öğrenme, doğal dil işleme, NLP, mikroservis, IoT">
     <meta name="theme-color" content="#030014">
+    <link rel="canonical" href="https://hasanyazart.github.io/">
     
     <!-- Open Graph -->
-    <meta property="og:title" content="Hasan Yazar — Bilgisayar Mühendisi">
-    <meta property="og:description" content="Yapay Zekâ, Yazılım Mimarisi ve Veri İşleme alanlarında çalışan Bilgisayar Mühendisi.">
+    <meta property="og:title" content="Hasan Yazar — Bilgisayar Mühendisi & Yapay Zekâ Geliştiricisi">
+    <meta property="og:description" content="Yapay zekâ, derin öğrenme, doğal dil işleme, IoT ve yazılım mimarisi odaklı proje portföyü.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://hasanyazart.github.io">
+    <meta property="og:url" content="https://hasanyazart.github.io/">
+    <meta property="og:locale" content="tr_TR">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,49 +26,59 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     
     <link rel="stylesheet" href="style.css">
+    <noscript>
+        <style>
+            #particle-canvas { display: none; }
+            .reveal, .stagger-item, .hero-content > * { opacity: 1 !important; transform: none !important; }
+        </style>
+    </noscript>
 </head>
 <body>
 
+    <a class="skip-link" href="#main-content">Ana içeriğe geç</a>
+
     <!-- Particle Canvas -->
-    <canvas id="particle-canvas"></canvas>
+    <canvas id="particle-canvas" aria-hidden="true"></canvas>
 
     <!-- Ambient Glow Orbs -->
-    <div class="orb orb-1"></div>
-    <div class="orb orb-2"></div>
-    <div class="orb orb-3"></div>
+    <div class="orb orb-1" aria-hidden="true"></div>
+    <div class="orb orb-2" aria-hidden="true"></div>
+    <div class="orb orb-3" aria-hidden="true"></div>
 
     <div class="wrapper">
 
         <!-- ═══ NAVIGATION ═══ -->
-        <nav class="nav" id="navbar">
+        <nav class="nav" id="navbar" aria-label="Ana navigasyon">
             <div class="container">
                 <div class="nav-inner">
-                    <a href="#" class="nav-logo">HY.</a>
+                    <a href="#hero" class="nav-logo" aria-label="Hasan Yazar — ana sayfa">HY.</a>
                     <div class="nav-links" id="navLinks">
                         <a href="#hakkimda" class="nav-link">Hakkımda</a>
                         <a href="#yetkinlikler" class="nav-link">Yetkinlikler</a>
-                        <a href="#deneyim" class="nav-link">Deneyim</a>
                         <a href="#projeler" class="nav-link">Projeler</a>
+                        <a href="#deneyim" class="nav-link">Deneyim</a>
                         <a href="#iletisim" class="nav-link">İletişim</a>
                     </div>
-                    <button class="nav-toggle" id="navToggle" aria-label="Menü">
-                        <i class="fas fa-bars"></i>
+                    <button class="nav-toggle" id="navToggle" type="button" aria-label="Menüyü aç" aria-controls="navLinks" aria-expanded="false">
+                        <i class="fas fa-bars" aria-hidden="true"></i>
                     </button>
                 </div>
             </div>
         </nav>
+
+        <main id="main-content">
 
         <!-- ═══ HERO ═══ -->
         <header class="hero" id="hero">
             <div class="hero-content">
                 <div class="hero-badge">
                     <span class="pulse-dot"></span>
-                    Yeniliklere Açık
+                    Yeni projelere ve iş birliklerine açık
                 </div>
                 <h1 class="hero-title">Hasan Yazar</h1>
-                <h2 class="hero-subtitle">Bilgisayar Mühendisi — Yapay Zekâ & Yazılım Mimarisi</h2>
-                <div class="hero-typing" id="typingText">
-                    <span class="typed-output"></span><span class="cursor"></span>
+                <h2 class="hero-subtitle">Bilgisayar Mühendisi · Yapay Zekâ & Yazılım Mimarisi</h2>
+                <div class="hero-typing" id="typingText" aria-label="Uzmanlık alanları: yapay zekâ, derin öğrenme, doğal dil işleme, mikroservis ve IoT">
+                    <span class="typed-output" aria-hidden="true"></span><span class="cursor" aria-hidden="true"></span>
                 </div>
                 <div class="hero-actions">
                     <a href="#projeler" class="btn btn-primary">
@@ -77,7 +90,7 @@
                 </div>
             </div>
             <div class="scroll-indicator">
-                <span>AŞAĞI KAYDIR</span>
+                <span>KEŞFET</span>
                 <div class="line"></div>
             </div>
         </header>
@@ -88,7 +101,7 @@
                 <div class="section-header reveal">
                     <div class="section-label"><i class="fas fa-circle"></i> HAKKIMDA</div>
                     <h2 class="section-title">Gelecek Vizyonu & Felsefem</h2>
-                    <p class="section-desc">Teknolojinin sınırlarını takip etmek değil, yeniden çizmek.</p>
+                    <p class="section-desc">Problemi doğru anlayan, veriyi anlamlı çözümlere dönüştüren ve ölçeklenebilir sistemler kuran bir mühendislik yaklaşımı.</p>
                 </div>
                 <div class="section-divider reveal"></div>
 
@@ -98,8 +111,8 @@
                         <div class="about-card-stack">
                             <div class="about-float-card afc-1">
                                 <div class="afc-icon"><i class="fas fa-brain"></i></div>
-                                <div class="afc-title">Yapay Zekâ</div>
-                                <div class="afc-text">Akıllı algoritmalar ve derin öğrenme modelleri ile geleceğin çözümlerini inşa ediyorum.</div>
+                                <div class="afc-title">Yapay Zekâ & NLP</div>
+                                <div class="afc-text">Derin öğrenme ve doğal dil işleme yöntemleriyle insan odaklı problemler için akıllı çözümler geliştiriyorum.</div>
                             </div>
                             <div class="about-float-card afc-2">
                                 <div class="afc-icon"><i class="fas fa-database"></i></div>
@@ -123,7 +136,7 @@
                             beni sürekli ileriye taşıyor.
                         </p>
                         <p>
-                            Özellikle <strong>Yapay Zekâ</strong>, <strong>Veri İşleme</strong> ve 
+                            Özellikle <strong>Yapay Zekâ</strong>, <strong>Doğal Dil İşleme</strong>, <strong>Veri İşleme</strong> ve
                             <strong>Mikroservis Mimarileri</strong> üzerine yoğunlaşarak, sistemlerin mimari 
                             derinliğini keşfediyorum. Beni diğerlerinden ayıran şey; sadece kod yazmak değil, 
                             <strong>donanımdan buluta</strong> kadar uçtan uca çözümler tasarlayabilmem. 
@@ -131,12 +144,12 @@
                         </p>
                         <div class="about-stats">
                             <div class="stat-item">
-                                <span class="stat-number">4+</span>
+                                <span class="stat-number">5+</span>
                                 <span class="stat-label">Proje</span>
                             </div>
                             <div class="stat-item">
-                                <span class="stat-number">3+</span>
-                                <span class="stat-label">Teknoloji</span>
+                                <span class="stat-number">4</span>
+                                <span class="stat-label">Odak Alanı</span>
                             </div>
                             <div class="stat-item">
                                 <span class="stat-number">1</span>
@@ -162,11 +175,12 @@
                     <!-- Programming Languages -->
                     <div class="skill-card stagger-item">
                         <div class="skill-card-icon"><i class="fas fa-code"></i></div>
-                        <h3>Programlama & Çalışma Zamanları</h3>
+                        <h3>Programlama & Veri</h3>
                         <div class="skill-tags">
                             <span class="skill-tag java">Java</span>
                             <span class="skill-tag python">Python</span>
                             <span class="skill-tag sql">SQL</span>
+                            <span class="skill-tag">Pandas</span>
                         </div>
                     </div>
 
@@ -178,7 +192,8 @@
                             <span class="skill-tag highlight">Spring Framework</span>
                             <span class="skill-tag">Docker & Kubernetes</span>
                             <span class="skill-tag">Git / GitHub</span>
-                            <span class="skill-tag ai">Data Science Libraries</span>
+                            <span class="skill-tag ai">Derin Öğrenme Kütüphaneleri</span>
+                            <span class="skill-tag">Scikit-learn</span>
                         </div>
                     </div>
 
@@ -189,7 +204,7 @@
                         <div class="skill-tags">
                             <span class="skill-tag highlight">Microservices Architecture</span>
                             <span class="skill-tag">Object-Oriented Programming (OOP)</span>
-                            <span class="skill-tag ai">Artificial Intelligence (ML)</span>
+                            <span class="skill-tag ai">Derin Öğrenme & NLP</span>
                             <span class="skill-tag">IoT & Hardware</span>
                         </div>
                     </div>
@@ -236,9 +251,40 @@
                         </div>
                     </div>
 
-                    <!-- Project 2 -->
-                    <div class="project-card stagger-item">
+                    <!-- NLP & Deep Learning Project -->
+                    <article class="project-card spotlight stagger-item">
+                        <div class="project-badge project-badge-ai"><i class="fas fa-language"></i> NLP & Derin Öğrenme</div>
                         <span class="project-number">02</span>
+                        <h3 class="project-title">Derin Öğrenme ile Sosyal Medyada Saldırgan İçerik Tespiti</h3>
+                        <p class="project-desc">
+                            Sosyal medya metinlerindeki saldırgan, hakaret içeren ve toksik ifadeleri otomatik olarak
+                            belirlemek için geliştirilen doğal dil işleme projesi. Çalışma; veri temizleme, metin normalizasyonu,
+                            temsil öğrenme ve farklı derin öğrenme yaklaşımlarının karşılaştırılabilir biçimde değerlendirilmesini kapsıyor.
+                        </p>
+                        <div class="project-flow" aria-label="Proje iş akışı">
+                            <span><i class="fas fa-filter" aria-hidden="true"></i> Veri Hazırlığı</span>
+                            <i class="fas fa-arrow-right flow-arrow" aria-hidden="true"></i>
+                            <span><i class="fas fa-brain" aria-hidden="true"></i> Model Eğitimi</span>
+                            <i class="fas fa-arrow-right flow-arrow" aria-hidden="true"></i>
+                            <span><i class="fas fa-shield-halved" aria-hidden="true"></i> İçerik Sınıflandırma</span>
+                        </div>
+                        <div class="project-tech">
+                            <span class="tech-item"><i class="fab fa-python"></i> Python</span>
+                            <span class="tech-item"><i class="fas fa-language"></i> NLP</span>
+                            <span class="tech-item"><i class="fas fa-network-wired"></i> Derin Öğrenme</span>
+                            <span class="tech-item"><i class="fas fa-chart-line"></i> Model Değerlendirme</span>
+                        </div>
+                        <div class="project-status">
+                            <i class="fas fa-circle"></i> NLP araştırma ve geliştirme çalışması
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/HasanYazart" target="_blank" rel="noopener noreferrer" class="project-link" aria-label="Hasan Yazar'ın GitHub profilini aç"><i class="fab fa-github"></i> GitHub</a>
+                        </div>
+                    </article>
+
+                    <!-- Project 3 -->
+                    <div class="project-card stagger-item">
+                        <span class="project-number">03</span>
                         <h3 class="project-title">AI Tabanlı Afet Sonrası İhtiyaç Ölçeklendirme</h3>
                         <p class="project-desc">
                             Afet sonrasında karmaşıklaşan lojistik ve ihtiyaç dağıtım süreçlerini optimize etmek 
@@ -257,9 +303,9 @@
                         </div>
                     </div>
 
-                    <!-- Project 3 -->
+                    <!-- Project 4 -->
                     <div class="project-card stagger-item">
-                        <span class="project-number">03</span>
+                        <span class="project-number">04</span>
                         <h3 class="project-title">Flask & SQLite Todo-Pomodoro</h3>
                         <p class="project-desc">
                             Kişisel üretkenliği artırmak amacıyla geliştirilmiş, backend süreçlerini 
@@ -278,9 +324,9 @@
                         </div>
                     </div>
 
-                    <!-- Project 4 -->
+                    <!-- Project 5 -->
                     <div class="project-card stagger-item">
-                        <span class="project-number">04</span>
+                        <span class="project-number">05</span>
                         <h3 class="project-title">Mini Redis — In-Memory Veri Depolama</h3>
                         <p class="project-desc">
                             Temel Redis mimarisinden ilham alarak geliştirilen, hafif ve bellek içi 
@@ -317,13 +363,14 @@
                     <div class="timeline-item stagger-item">
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
-                            <h3>Bilgisayar Mühendisliği Lisans</h3>
-                            <span class="timeline-date">2022 — Devam Ediyor</span>
-                            <p>Yazılım mimarisi, veri yapıları, algoritma tasarımı ve yapay zekâ temelleri üzerine akademik eğitim. Teorik bilgiyi projelerle pratiğe dönüştürüyorum.</p>
+                            <div class="timeline-badge">Aktif</div>
+                            <h3>TÜBİTAK 2209-A Araştırmacısı</h3>
+                            <span class="timeline-date">2024 — Devam Ediyor</span>
+                            <p>Kapalı alanlarda saldırgan tespiti projesi kapsamında; donanım, IoT ve yapay zekâ teknolojilerini bir araya getiren Ar-Ge sürecini takım lideri olarak yürütüyorum.</p>
                             <div class="timeline-tags">
-                                <span>Algoritmalar</span>
-                                <span>Veri Yapıları</span>
-                                <span>Yazılım Mühendisliği</span>
+                                <span>Yapay Zekâ</span>
+                                <span>IoT</span>
+                                <span>Proje Yönetimi</span>
                             </div>
                         </div>
                     </div>
@@ -333,11 +380,11 @@
                         <div class="timeline-content">
                             <h3>Bağımsız Proje Geliştirme</h3>
                             <span class="timeline-date">2023 — Devam Ediyor</span>
-                            <p>Kendi inisiyatifimle full-stack web uygulamaları, in-memory veri depolama sistemleri ve makine öğrenmesi projeleri geliştirdim.</p>
+                            <p>Full-stack web uygulamaları, bellek içi veri depolama sistemleri, makine öğrenmesi ve doğal dil işleme projeleri geliştiriyorum.</p>
                             <div class="timeline-tags">
                                 <span>Flask</span>
-                                <span>Spring Boot</span>
                                 <span>Python</span>
+                                <span>Derin Öğrenme</span>
                             </div>
                         </div>
                     </div>
@@ -345,14 +392,13 @@
                     <div class="timeline-item stagger-item">
                         <div class="timeline-marker"></div>
                         <div class="timeline-content">
-                            <div class="timeline-badge">Aktif</div>
-                            <h3>TÜBİTAK 2209-A Araştırmacısı</h3>
-                            <span class="timeline-date">2024 — Devam Ediyor</span>
-                            <p>Kapalı alanlarda saldırgan tespiti projesi kapsamında, donanım, IoT ve yapay zekâ teknolojilerini entegre eden kapsamlı bir Ar-Ge süreci yönetiyorum. Takım liderliği ve proje yönetimi deneyimi kazandım.</p>
+                            <h3>Bilgisayar Mühendisliği Lisans</h3>
+                            <span class="timeline-date">2022 — Devam Ediyor</span>
+                            <p>Yazılım mimarisi, veri yapıları, algoritma tasarımı ve yapay zekâ temelleri üzerine akademik eğitimimi projelerle pratiğe dönüştürüyorum.</p>
                             <div class="timeline-tags">
-                                <span>Yapay Zekâ</span>
-                                <span>IoT</span>
-                                <span>Proje Yönetimi</span>
+                                <span>Algoritmalar</span>
+                                <span>Veri Yapıları</span>
+                                <span>Yazılım Mühendisliği</span>
                             </div>
                         </div>
                     </div>
@@ -365,8 +411,8 @@
             <div class="container">
                 <div class="cta-content reveal">
                     <div class="cta-glow"></div>
-                    <h2>Birlikte Çalışalım!</h2>
-                    <p>Bir projeniz mi var, yoksa sadece merhaba mı demek istiyorsunuz? Her iki durumda da iletişime geçmekten çekinmeyin.</p>
+                    <h2>Bir fikri çalışan bir ürüne dönüştürelim.</h2>
+                    <p>Yapay zekâ, veri odaklı uygulamalar veya ölçeklenebilir backend sistemleri üzerine konuşmak için benimle iletişime geçebilirsiniz.</p>
                     <div class="cta-actions">
                         <a href="mailto:tt41468@gmail.com" class="btn btn-primary btn-lg">
                             <i class="fas fa-paper-plane"></i> Bana Ulaşın
@@ -378,6 +424,8 @@
                 </div>
             </div>
         </section>
+
+        </main>
 
         <!-- ═══ FOOTER ═══ -->
         <footer class="footer" id="iletisim">
@@ -414,6 +462,8 @@
        ═══════════════════════════════════════════ */
     (function() {
         const canvas = document.getElementById('particle-canvas');
+        const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (!canvas || prefersReducedMotion) return;
         const ctx = canvas.getContext('2d');
         let particles = [];
         let mouse = { x: null, y: null, radius: 120 };
@@ -525,12 +575,18 @@
     (function() {
         const phrases = [
             'Yapay Zekâ & Derin Öğrenme',
+            'Doğal Dil İşleme & NLP',
             'Mikroservis Mimarisi',
             'IoT & Donanım Entegrasyonu',
             'Veri İşleme & Optimizasyon',
             'TÜBİTAK 2209 Araştırmacısı'
         ];
         const el = document.querySelector('.typed-output');
+        if (!el) return;
+        if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+            el.textContent = phrases[0];
+            return;
+        }
         let phraseIdx = 0, charIdx = 0, isDeleting = false;
 
         function type() {
@@ -568,6 +624,15 @@
         const links = document.getElementById('navLinks');
         const navAnchors = document.querySelectorAll('.nav-link');
 
+        function closeMenu() {
+            links.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+            toggle.setAttribute('aria-label', 'Menüyü aç');
+            const icon = toggle.querySelector('i');
+            icon.classList.add('fa-bars');
+            icon.classList.remove('fa-xmark');
+        }
+
         // Scroll effect
         window.addEventListener('scroll', () => {
             nav.classList.toggle('scrolled', window.scrollY > 60);
@@ -575,7 +640,9 @@
 
         // Mobile toggle
         toggle.addEventListener('click', () => {
-            links.classList.toggle('open');
+            const isOpen = links.classList.toggle('open');
+            toggle.setAttribute('aria-expanded', String(isOpen));
+            toggle.setAttribute('aria-label', isOpen ? 'Menüyü kapat' : 'Menüyü aç');
             const icon = toggle.querySelector('i');
             icon.classList.toggle('fa-bars');
             icon.classList.toggle('fa-xmark');
@@ -583,32 +650,49 @@
 
         // Close on link click
         navAnchors.forEach(a => {
-            a.addEventListener('click', () => {
-                links.classList.remove('open');
-                const icon = toggle.querySelector('i');
-                icon.classList.add('fa-bars');
-                icon.classList.remove('fa-xmark');
-            });
+            a.addEventListener('click', closeMenu);
+        });
+
+        document.addEventListener('keydown', (event) => {
+            if (event.key === 'Escape' && links.classList.contains('open')) {
+                closeMenu();
+                toggle.focus();
+            }
+        });
+
+        window.addEventListener('resize', () => {
+            if (window.innerWidth > 768) closeMenu();
         });
 
         // Active link on scroll
         const sections = document.querySelectorAll('section[id], footer[id]');
-        window.addEventListener('scroll', () => {
+        function updateActiveLink() {
             let current = '';
             sections.forEach(s => {
                 const top = s.offsetTop - 150;
                 if (scrollY >= top) current = s.id;
             });
             navAnchors.forEach(a => {
-                a.classList.toggle('active', a.getAttribute('href') === '#' + current);
+                const isActive = a.getAttribute('href') === '#' + current;
+                a.classList.toggle('active', isActive);
+                if (isActive) a.setAttribute('aria-current', 'location');
+                else a.removeAttribute('aria-current');
             });
-        });
+        }
+
+        window.addEventListener('scroll', updateActiveLink, { passive: true });
+        updateActiveLink();
     })();
 
     /* ═══════════════════════════════════════════
        SCROLL REVEAL ANIMATIONS
        ═══════════════════════════════════════════ */
     (function() {
+        const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        if (prefersReducedMotion || !('IntersectionObserver' in window)) {
+            document.querySelectorAll('.reveal, .stagger-item').forEach(el => el.classList.add('visible'));
+            return;
+        }
         const observerOptions = { threshold: 0.12, rootMargin: '0px 0px -40px 0px' };
 
         // Reveal observer
@@ -659,7 +743,8 @@
             e.preventDefault();
             const target = document.querySelector(this.getAttribute('href'));
             if (target) {
-                target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                const behavior = window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth';
+                target.scrollIntoView({ behavior, block: 'start' });
             }
         });
     });
