@@ -64,7 +64,7 @@ class EnglishPage(HTMLParser):
 
 def decorate(page, filename):
     # Regeneration is idempotent: only remove metadata this builder owns.
-    page = re.sub(r'<!-- portfolio-meta -->.*?<!-- /portfolio-meta -->', '', page, flags=re.S)
+    page = re.sub(r'\s*<!-- portfolio-meta -->.*?<!-- /portfolio-meta -->\s*', '\n', page, flags=re.S)
     if filename != '404.html' and 'class="language-switch"' not in page:
         page = page.replace('</nav>', f'<a class="language-switch" href="en/{filename}" lang="en" aria-label="English">EN</a></nav>', 1)
     metadata = ['<!-- portfolio-meta -->',
@@ -85,6 +85,7 @@ def main():
     pages = sorted(ROOT.glob('*.html'))
     for path in pages:
         original = decorate(path.read_text(encoding='utf-8-sig'), path.name)
+        original = '\n'.join(line.rstrip() for line in original.splitlines()).rstrip() + '\n'
         path.write_text(original, encoding='utf-8')
         parser = EnglishPage()
         parser.feed(original)

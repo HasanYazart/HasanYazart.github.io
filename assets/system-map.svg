@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 540" role="img" aria-labelledby="title desc">
   <title id="title">Veriden çalışan sisteme</title>
   <desc id="desc">Veri, model ve yazılım katmanlarının birbirine bağlandığı teknik çizim.</desc>
-  
+
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#313038" stroke-width="1"/></pattern>
     <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1l5 3-5 3" fill="none" stroke="#8475e0" stroke-width="1.5"/></marker>
