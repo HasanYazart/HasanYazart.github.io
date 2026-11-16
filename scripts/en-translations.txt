@@ -1,0 +1,394 @@
+İçeriğe geç|Skip to content
+Ana sayfa|Home
+Projeler|Projects
+Hakkımda|About
+İletişim|Contact
+ANA SAYFA|HOME
+HAKKIMDA|ABOUT
+PROJELER|PROJECTS
+İLETİŞİM|CONTACT
+Bilgisayar Mühendisliği|Computer Engineering
+EĞİTİM VE TEKNİK BİRİKİM|EDUCATION AND TECHNICAL BACKGROUND
+Merhaba, ben|Hello, I'm
+Bilgisayar mühendisliği öğrencisiyim. Yapay zekâ uygulamalarıyla yazılım sistemlerinin kesiştiği alanlarda araştırıyor, geliştiriyor ve öğreniyorum.|I'm a computer engineering student, researching, building and learning where AI applications meet software systems.
+KISA BİR TANITIM|A LITTLE ABOUT ME
+Problemi anlamaktan|From understanding a problem
+çözüm üretmeye.|to building a solution.
+Fırat Üniversitesi Bilgisayar Mühendisliği lisans programında eğitimime devam ediyorum. Beklenen mezuniyet tarihim Haziran 2027.|I'm studying for a bachelor's degree in Computer Engineering at Fırat University. My expected graduation date is June 2027.
+Çalışmalarım makine öğrenmesi, derin öğrenme, doğal dil işleme, bilgisayarlı görü ve yazılım mimarisi etrafında şekilleniyor. Projelerde veriyi hazırlamaktan model eğitimine, servis yapısını kurmaktan sonuçları değerlendirmeye kadar farklı aşamalarda çalıştım.|My work focuses on machine learning, deep learning, natural language processing, computer vision and software architecture. Across projects, I've worked on data preparation, model training, service architecture and evaluation.
+Bir çözümün teknik açıdan doğru olmasının yanında anlaşılır, sürdürülebilir ve gerçekten kullanılabilir olmasına önem veriyorum.|I care about solutions that are understandable, maintainable and useful, as well as technically sound.
+Eğitim|Education
+Fırat Üniversitesi|Fırat University
+Diller|Languages
+Türkçe · İngilizce · Arapça|Turkish · English · Arabic
+Odak|Focus
+Yapay zekâ · Yazılım geliştirme · Sistem tasarımı|AI · Software development · System design
+ÖZGEÇMİŞ|RESUME
+Deneyimim, tek bir dosyada.|My experience in one document.
+Eğitim, projeler ve teknik yetkinlikler. Türkçe ve İngilizce PDF.|Education, projects and technical skills. PDF in Turkish and English.
+CV indir · Türkçe|Download CV · Turkish
+Bilgisayar Mühendisliği · Lisans|Computer Engineering · Bachelor's degree
+2022 — devam|2022 — present
+Beklenen mezuniyet|Expected graduation
+Haziran 2027|June 2027
+TEKNİK YETKİNLİKLER|TECHNICAL SKILLS
+Araçlar ve|Tools and
+alanlar.|disciplines.
+Programlama ve veri|Programming and data
+Yapay zekâ|Artificial intelligence
+Scikit-learn · Makine öğrenmesi · Derin öğrenme · Doğal dil işleme · Bilgisayarlı görü · Model eğitimi ve değerlendirme|Scikit-learn · Machine learning · Deep learning · NLP · Computer vision · Model training and evaluation
+Framework ve araçlar|Frameworks and tools
+Yazılım geliştirme|Software development
+Mikroservis mimarisi · OOP · ORM · Repository Pattern · Migration · Unit testing · CI/CD|Microservices · OOP · ORM · Repository Pattern · Migrations · Unit testing · CI/CD
+Çalışma biçimi|Ways of working
+Agile · Kanban · Ekip koordinasyonu · Araştırma ve değerlendirme|Agile · Kanban · Team coordination · Research and evaluation
+Sistemler|Systems
+IoT · Donanım entegrasyonu · Bellek içi veri depolama · Önbellekleme|IoT · Hardware integration · In-memory storage · Caching
+SONRAKİ ADIM|NEXT STEP
+Projeleri|Explore
+inceleyin.|my projects.
+Tüm çalışmalar|All projects
+Birlikte iyi işler|Let's build something
+üretelim.|meaningful.
+E-posta yaz|Write an email
+Hareketi durdur|Pause motion
+BİRLİKTE ÇALIŞALIM|LET'S WORK TOGETHER
+Bir fikriniz|Have an
+var mı?|idea?
+Proje, araştırma veya iş birliği üzerine konuşmak için doğrudan e-posta gönderebilirsiniz.|Email me directly to discuss a project, research or collaboration.
+BAĞLANTI KURALIM|LET'S CONNECT
+Doğru fikri birlikte|Let's develop the right idea
+geliştirelim.|together.
+Yapay zekâ, yazılım sistemleri veya yeni bir araştırma fikri üzerine iletişime geçmekten memnun olurum.|I'd be happy to hear from you about AI, software systems or a new research idea.
+Bir mesajla başlayalım|It starts with a message
+Bana yazın.|Get in touch.
+E-postanızı nereden yazmak istersiniz?|Where would you like to write your email?
+Gmail'de yaz|Open Gmail
+Outlook'ta yaz|Open Outlook
+E-posta uygulamasını aç|Open email app
+Uygulama açılmıyorsa Gmail veya Outlook'u kullanabilir ya da adresi kopyalayabilirsiniz.|If an email app does not open, use Gmail or Outlook, or copy the address.
+Adresi kopyala|Copy address
+Projeleri incele|Explore projects
+Yazılım geliştirme & yapay zekâ|Software development & AI
+Fikirden|From an idea
+çalışan|to a working
+ürüne.|product.
+Ben Hasan. Veriyi anlamlandıran, gerçek problemlere çözüm üreten yazılımlar geliştiriyorum.|I'm Hasan. I build software that makes sense of data and solves real problems.
+Çalışmalarımı keşfet|Explore my work
+CV · Türkçe ↓|CV · Turkish ↓
+VERİ → MODEL → ÜRÜN|DATA → MODEL → PRODUCT
+İŞLEME KATMANI|PROCESSING LAYER
+Fikir, artık çalışıyor.|The idea is now working.
+veri|data
+ürün|product
+Küçük parçalar. Çalışan bir bütün.|Small parts. One working system.
+Katmanları ayır|Separate layers
+Keşfetmek için kaydır|Scroll to explore
+SEÇİLİ ÇALIŞMALAR|SELECTED WORK
+Ürettiğim|Things I've
+işler.|built.
+Farklı problemler, ortak yaklaşım: veriyi anlamak, uygun sistemi kurmak ve sonucu değerlendirmek.|Different problems, a shared approach: understand the data, build the right system and evaluate the result.
+Temsili çalışma görünümü|Illustrative project view
+YAPAY ZEKÂ / MİKROSERVİS|AI / MICROSERVICES
+Afet sonrası ihtiyaç önceliklendirme|Post-disaster needs prioritization
+İhtiyaç verilerini kategori ve aciliyet düzeyine göre değerlendiren servis mimarisi ve makine öğrenmesi modeli.|A service architecture and machine learning model that assess needs by category and urgency.
+Projeyi incele|Explore project
+GitHub README · komut örnekleri|GitHub README · command examples
+SİSTEM TASARIMI / BACKEND|SYSTEM DESIGN / BACKEND
+Bellek içinde çalışan hafif anahtar değer depolama sistemi.|A lightweight in-memory key–value store.
+Temsili moderasyon akışı|Illustrative moderation flow
+DOĞAL DİL İŞLEME / DERİN ÖĞRENME|NLP / DEEP LEARNING
+Saldırgan içerik tespiti|Offensive content detection
+Sosyal medya metinlerini sınıflandırmaya yönelik model eğitimi ve değerlendirme.|Model training and evaluation for social media text classification.
+Tüm projeler|All projects
+Çalışma yaklaşımım|How I work
+Bir fikir.|One idea.
+Adım adım, bir ürün.|Step by step, a product.
+Ürün|Product
+Veri|Data
+Veriyi anlamak|Understand the data
+Önce, doğru|First, ask
+soruyu sormak.|the right question.
+İhtiyacı netleştiriyor, veriyi inceliyor ve çözümün neyi başarması gerektiğini belirliyorum.|I clarify the need, explore the data and define what the solution should achieve.
+Veriden önceliklendirmeye|From data to prioritization
+Denemek.|Experiment.
+Ölçmek. İyileştirmek.|Measure. Improve.
+Uygun yöntemi seçiyor, modelleri eğitiyor ve sonuçları değerlendiriyorum. Her deneme bir sonraki karara yön veriyor.|I choose an approach, train models and evaluate results. Each experiment informs the next decision.
+Dil işleme çalışmam|My NLP project
+Parçaları, çalışan|Bring the parts together
+bir bütüne dönüştürmek.|into a working system.
+Veriyi ve iş mantığını anlaşılır bir yazılım mimarisinde birleştiriyor; test edilebilir, sürdürülebilir sistemler kuruyorum.|I connect data and business logic in a clear software architecture, building testable and maintainable systems.
+Sistem tasarımı çalışmam|My system design project
+ÇALIŞMA MASAMDA|ON MY DESK
+Şu an|What I'm
+üzerinde çalışıyorum.|working on.
+Devam eden bir çalışmadan notlar.|Notes from a project in progress.
+Devam ediyor|In progress
+Omurga grafilerinde vertebra tespiti|Vertebra detection in spinal radiographs
+L3, L4 ve L5 vertebralarını ve anatomik anahtar noktaları belirlemeye yönelik bilgisayarlı görü çalışması.|A computer vision study to identify L3, L4 and L5 vertebrae and anatomical keypoints.
+Çalışmayı incele|Explore the study
+OKU. DENE. KEŞFET.|READ. TRY. EXPLORE.
+Bir komut yaz.|Write a command.
+Verinin izini sür.|Follow the data.
+Mini Redis'in anahtar–değer mantığını tarayıcıdaki etkileşimli simülasyonda keşfet.|Explore Mini Redis's key–value storage in an interactive browser simulation.
+Demoyu aç|Open demo
+Tarayıcı simülasyonu · Kurulum gerektirmez|Browser simulation · No installation required
+Bir fikri birlikte|Let's develop an idea
+İletişime geç|Get in touch
+AFET|DISASTER RESPONSE
+VAKA ÇALIŞMASI 01 / YAPAY ZEKÂ|CASE STUDY 01 / AI
+Afet sonrası ihtiyaç|Post-disaster needs
+önceliklendirme.|prioritization.
+Afet sonrasında gelen ihtiyaç verilerini kategori ve aciliyet düzeyine göre değerlendirip kaynak planlamasına destek veren bir sistem.|A system that assesses post-disaster needs by category and urgency to support resource planning.
+ROLÜM|MY ROLE
+Mikroservis mimarisi ve model eğitimi|Microservice architecture and model training
+ALAN|FIELD
+Makine öğrenmesi · Veri işleme|Machine learning · Data processing
+YAPI|STRUCTURE
+Servis tabanlı sistem|Service-based system
+01 / PROBLEM|01 / PROBLEM
+İhtiyaçları anlamlı sıraya koymak|Prioritizing needs
+Afet sonrasında farklı kategorilerde ve aciliyet düzeylerinde ihtiyaç verisi oluşur. Bu verinin sistemli biçimde değerlendirilmesi, önceliklendirme ve kaynak planlaması için önemlidir.|Disasters create needs across different categories and levels of urgency. Systematic assessment helps prioritize them and plan resources.
+02 / YAKLAŞIM|02 / APPROACH
+Veri ve servisleri bir araya getirmek|Connecting data and services
+İhtiyaç verisini kategori ve aciliyet düzeyine göre değerlendiren sistemin mikroservis mimarisini kurdum. Makine öğrenmesi modelini eğiterek veri işleme ve önceliklendirme akışını servis yapısına dahil ettim.|I built the microservice architecture for a system that assesses needs by category and urgency. I trained the machine learning model and integrated data processing and prioritization into the services.
+03 / KATKIM|03 / MY CONTRIBUTION
+Mimariden modele|From architecture to model
+Veri işleme, ihtiyaç önceliklendirme ve kaynak planlamaya yönelik işlevlerin servis mimarisi içinde birlikte çalışmasına odaklandım.|I focused on connecting data processing, needs prioritization and resource planning within the service architecture.
+SONRAKİ PROJE|NEXT PROJECT
+YAPAY ZEKÂ / UYGULAMA|AI / APPLICATION
+Sosyal medya içerik üretimi ve yayınlama|Social media content creation and publishing
+Konuya uygun görsel ve metin hazırlamayı, tasarıma uyarlamayı ve yayınlama akışını bir araya getiren uygulama.|An application that combines topic-based text and visuals, design adaptation and a publishing workflow.
+DURUM|STATUS
+Uygulama projesi|Application project
+SUNUM|OVERVIEW
+Proje özeti|Project summary
+Temsili çalışma görünümü.|Illustrative project view.
+01 / FİKİR|01 / IDEA
+Konudan içeriğe|From topic to content
+Uygulama, seçilen konuya uygun görsel ve metin hazırlanmasına yönelik bir akış sunuyor.|The application provides a workflow for preparing images and text for a selected topic.
+02 / AKIŞ|02 / WORKFLOW
+İçeriği tasarıma taşımak|Adapting content to a design
+Hazırlanan içerik, seçilen tasarıma uyarlanıyor. Kapak çizimi konu seçimi, içerik taslağı ve görsel düzenleme adımlarını temsili olarak gösteriyor.|The content is adapted to a selected design. The cover illustrates topic selection, drafting and visual editing.
+03 / ÇIKTI|03 / OUTPUT
+Yayınlama adımı|The publishing step
+İçeriğin platformda yayınlanmasına yönelik akış, üretim ve tasarım adımlarını tamamlıyor. Bu sayfa proje tanıtımıdır; sosyal medya hesabına bağlanmaz veya gönderi yayınlamaz.|The publishing workflow completes the creation and design steps. This page introduces the project; it does not connect to social accounts or publish posts.
+Diğer|More of
+çalışmalarım.|my work.
+Tüm projeler ↗|All projects ↗
+MOBİL OYUN|MOBILE GAMES
+Mangala ve Quoridor|Mangala and Quoridor
+Görsel tasarım, sesler ve oynanış bileşenlerini bir araya getirdiğim iki mobil oyun.|Two mobile games bringing together visual design, audio and gameplay components.
+Geliştirildi|Developed
+01 / PROJELER|01 / PROJECTS
+İki farklı oyun, iki farklı tahta|Two games, two boards
+Mangala ve Quoridor mobil oyunlarını geliştirdim. Kapak görselinde Mangala çukurları ve taşları ile Quoridor tahtasının temsili çizimleri yer alıyor.|I developed mobile versions of Mangala and Quoridor. The cover illustrates the Mangala pits and stones alongside a Quoridor board.
+02 / KATKIM|02 / MY CONTRIBUTION
+Görsel, ses ve oynanış|Visuals, sound and gameplay
+Geliştirme sürecinde görsel tasarım, sesler ve oynanış bileşenlerini bir araya getirdim.|During development, I brought together visual design, sound and gameplay components.
+03 / İNCELEME|03 / OVERVIEW
+Mobil oyun çalışmaları|Mobile game projects
+Bu sayfa iki projenin kısa tanıtımını içeriyor. Kapak görseli uygulamadan alınmış bir ekran görüntüsü değildir.|This page briefly introduces both projects. The cover is an illustration, not an application screenshot.
+VAKA ÇALIŞMASI 03 / DOĞAL DİL İŞLEME|CASE STUDY 03 / NLP
+Saldırgan içerik|Offensive content
+tespiti.|detection.
+Sosyal medya metinlerindeki saldırgan ve toksik ifadeleri sınıflandırmaya yönelik derin öğrenme çalışması.|A deep learning project for classifying offensive and toxic expressions in social media text.
+ÇALIŞMA|TASK
+Metin sınıflandırma|Text classification
+NLP · Derin öğrenme|NLP · Deep learning
+SÜREÇ|PROCESS
+Veri hazırlama · Eğitim · Değerlendirme|Data preparation · Training · Evaluation
+GitHub · gerçek veri analizi ·|GitHub · original data analysis ·
+Orijinal grafikler ↗|Original charts ↗
+Depodaki veri ayırma analizi. Bu grafikler model başarım ölçümü değildir.|Dataset split analysis from the repository. These charts do not measure model performance.
+Metindeki zararlı ifadeleri ayırmak|Identifying harmful expressions
+Sosyal medya metinlerindeki saldırgan ve toksik ifadelerin otomatik sınıflandırılmasına yönelik bir doğal dil işleme problemi ele aldım.|I worked on the NLP problem of automatically classifying offensive and toxic expressions in social media text.
+02 / SÜREÇ|02 / PROCESS
+Veri hazırlığından modele|From data preparation to models
+Veri temizleme ve metin normalizasyonu çalışmaları gerçekleştirdim. Temsil öğrenme ve farklı derin öğrenme yaklaşımları üzerinde model eğitimi ve değerlendirme yürüttüm.|I worked on data cleaning and text normalization, and trained and evaluated models using representation learning and different deep learning approaches.
+03 / KAYNAK KOD|03 / SOURCE CODE
+Çalışmayı inceleyin|Explore the project
+Projenin kaynak kodu GitHub üzerinde bulunuyor.|The source code is available on GitHub.
+GitHub deposu|GitHub repository
+TÜBİTAK 2209-A araştırması|TÜBİTAK 2209-A research
+GÖRÜNTÜ İŞLEME|IMAGE PROCESSING
+Görüntü tabanlı personel tespiti|Image-based personnel detection
+Veri etiketleme ve tespit sürecine katkı sağladığım ekip çalışması.|A team project in which I contributed to data annotation and detection.
+Entegrasyon ve test bekleniyor|Integration and testing pending
+Görüntüdeki kişileri belirlemek|Detecting people in images
+Proje, görüntülerde personelin tespit edilmesine odaklanıyor. Kapaktaki sınır kutuları bu fikri temsili olarak gösteriyor.|The project focuses on detecting personnel in images. The bounding boxes on the cover illustrate this idea.
+Veri etiketleme ve tespit|Annotation and detection
+Ekip çalışmasında veri etiketleme ve tespit sürecine katkı sağladım.|I contributed to data annotation and the detection process as part of a team.
+03 / SONRAKİ AŞAMA|03 / NEXT STAGE
+Kamera entegrasyonu ve test|Camera integration and testing
+Kamera entegrasyonu ve test aşamaları bekleniyor. Bu aşamalar tamamlanmadan gerçek ortam başarımına ilişkin bir sonuç paylaşılmıyor.|Camera integration and testing are pending. No real-world performance results are reported before these stages are complete.
+VAKA ÇALIŞMASI 02 / SİSTEM TASARIMI|CASE STUDY 02 / SYSTEM DESIGN
+Redis mimarisinden ilham alan, bellek içinde çalışan hafif bir anahtar değer depolama sistemi.|A lightweight in-memory key–value store inspired by Redis architecture.
+Sistem geliştirme|System development
+Veri depolama · Önbellekleme|Data storage · Caching
+Bellek içi anahtar değer|In-memory key–value storage
+GitHub README · komut örnekleri ·|GitHub README · command examples ·
+GitHub kaynağı ↗|GitHub source ↗
+01 / MİMARİ|01 / ARCHITECTURE
+Java ile TCP sunucusundan veri deposuna|From a TCP server to a data store in Java
+MiniRedis, Core Java ile geliştirdiğim bir bellek içi veri deposu. Main sınıfı AOF dosyasını yükleyip sunucuyu 6379 portunda başlatıyor. MiniRedisServer, gelen TCP bağlantılarını 10 iş parçacıklı bir havuza aktarıyor.|MiniRedis is an in-memory store I built in Core Java. Main loads the AOF file and starts the server on port 6379. MiniRedisServer passes TCP connections to a pool of 10 threads.
+ClientHandler komutu ayrıştırıyor; CommandFactory ilgili komut sınıfını seçiyor. Her komut, veriyi ConcurrentHashMap içinde tutan MiniRedisStore üzerinde çalışıyor.|ClientHandler parses input and CommandFactory selects a command class. Each command operates on MiniRedisStore, which holds data in a ConcurrentHashMap.
+Sunucu kodu ↗|Server code ↗
+02 / SÜRELİ VERİ|02 / EXPIRING DATA
+SETEX ve TTL|SETEX and TTL
+SETEX, değeri bir son kullanma zamanı ile kaydediyor. Süresi geçen kayıtlar GET sırasında veya saniyede bir çalışan arka plan taramasıyla temizleniyor. TTL kalan süreyi saniye olarak döndürüyor; süresiz kayıtta −1, bulunmayan veya süresi geçmiş kayıtta −2 veriyor.|SETEX stores a value with an expiry time. Expired entries are removed on GET or by a background scan every second. TTL returns the remaining seconds, −1 for a key without expiry, and −2 for a missing or expired key.
+03 / KAYIT VE SAYAÇLAR|03 / PERSISTENCE AND COUNTERS
+Bellekteki değişiklikleri dosyaya yazmak|Writing memory changes to a file
+SET ve DEL işlemleri miniredis.aof dosyasına ekleniyor. Başlangıçta bu kayıtlar okunarak veri belleğe yükleniyor. INCR ve DECR, Java tarafında synchronized metotlarla tam sayı değerlerini değiştiriyor.|SET and DEL operations are appended to miniredis.aof and replayed at startup. INCR and DECR update integer values through synchronized Java methods.
+Bu sürümde SETEX dosyaya SET olarak yazılıyor; son kullanma zamanı AOF içinde saklanmıyor. Yeniden başlatma sonrasında süre bilgisinin korunması, mevcut uygulamanın bir sınırlaması.|In this version, SETEX is logged as SET, so expiry times are not saved in the AOF file. Preserving expiry across restarts is a limitation of the current implementation.
+Depolama kodu ↗|Storage code ↗
+04 / YERELDE ÇALIŞTIR|04 / RUN LOCALLY
+Gerçek uygulamayı deneyin|Try the actual application
+GitHub deposunu indirip bir Java geliştirme ortamında Main sınıfını çalıştırın. Sunucu açıldıktan sonra Telnet istemcisiyle bağlanabilirsiniz:|Download the GitHub repository and run Main in a Java development environment. Once the server starts, connect with a Telnet client:
+GitHub deposu ↗|GitHub repository ↗
+ETKİLEŞİMLİ DEMO|INTERACTIVE DEMO
+Komutu yaz.|Write a command.
+Sonucu gör.|See the result.
+Anahtar–değer depolamayı deneyin. Bu, tarayıcıda çalışan bir simülasyondur; gerçek Mini Redis sunucusuna bağlanmaz. Veriler yalnızca bu sayfa açıkken tutulur.|Try key–value storage. This is a browser simulation; it does not connect to a real Mini Redis server. Data lasts only while this page is open.
+Kaynak:|Source:
+· sürüm fab2957|· revision fab2957
+Sıfırla ↺|Reset ↺
+Hazır. Aşağıdaki örneklerden birini seçip çalıştırın.|Ready. Choose an example below and run it.
+Komut|Command
+Çalıştır ↵|Run ↵
+Demoyu kullanmak için JavaScript'i etkinleştirin.|Enable JavaScript to use the demo.
+Bellekte ne var?|What's in memory?
+0 anahtar|0 keys
+Komutlar çalıştıkça bu alan güncellenir.|This panel updates as commands run.
+Henüz veri yok.|No data yet.
+Bir örnek seç:|Choose an example:
+Bu uyarlamadaki komutlar: SET, GET, DEL, SETEX, TTL, INCR, DECR, FLUSHDB. Java kodundaki gibi anahtar ve değerler boşluk içeremez; tırnaklar özel olarak ayrıştırılmaz. TCP, eşzamanlı istemciler ve AOF dosyası bu tarayıcı demosunda çalışmaz. INFO ve QUIT komutlarını asıl Java uygulamasında deneyebilirsiniz.|Commands in this adaptation: SET, GET, DEL, SETEX, TTL, INCR, DECR, FLUSHDB. As in the Java code, keys and values cannot contain spaces; quotes are not specially parsed. TCP, concurrent clients and the AOF file are not implemented here. Try INFO and QUIT in the Java application. Server error messages retain their original Turkish wording.
+Rapor değerlendirme aracı|Report review tool
+Raporları analiz eden, güçlü ve zayıf yönleri belirleyerek geliştirme önerileri sunan araç.|A tool that analyzes reports, identifies strengths and weaknesses, and suggests improvements.
+01 / İHTİYAÇ|01 / NEED
+Raporu yeniden okumak|Taking another look at a report
+Çalışma, raporların analiz edilmesine ve geliştirilmesi gereken alanların belirlenmesine odaklanıyor.|This project focuses on analyzing reports and identifying areas for improvement.
+Güçlü yönler ve eksikler|Strengths and gaps
+Araç, raporun güçlü ve zayıf yönlerini ele alarak geliştirme önerileri sunuyor.|The tool examines strengths and weaknesses in a report and suggests improvements.
+03 / SUNUM|03 / PRESENTATION
+Geri bildirimi görünür kılmak|Making feedback visible
+Kapak çizimi, belge üzerindeki güçlü yönleri ve geliştirme önerilerini temsili olarak gösteriyor. Gerçek bir rapor veya değerlendirme sonucu içermiyor.|The cover illustrates strengths and suggested improvements on a document. It does not contain a real report or evaluation result.
+VAKA ÇALIŞMASI 04 / ARAŞTIRMA|CASE STUDY 04 / RESEARCH
+Kapalı alanlarda saldırgan|Indoor aggressor
+Donanım, IoT altyapısı ve yapay zekâ bileşenlerini birleştiren TÜBİTAK 2209-A araştırma projesi.|A TÜBİTAK 2209-A research project combining hardware, IoT infrastructure and AI components.
+Araştırmacı ve takım lideri|Researcher and team lead
+IoT · Donanım · Yapay zekâ|IoT · Hardware · AI
+Tamamlandı|Completed
+Temsili sistem görünümü|Illustrative system view
+01 / AMAÇ|01 / PURPOSE
+Güvenlik tehditlerini tespit etmek|Detecting security threats
+Proje, kapalı alanlardaki güvenlik tehditlerinin tespitine yönelik olarak donanım, IoT ve yapay zekâ bileşenlerini bir araya getirdi.|The project brought together hardware, IoT and AI components to detect security threats indoors.
+02 / ROLÜM|02 / MY ROLE
+Teknik entegrasyonu koordine etmek|Coordinating technical integration
+Araştırmacı ve takım lideri olarak donanım, IoT altyapısı ve yapay zekâ bileşenlerinin entegrasyonunu koordine ettim. Takımın teknik çalışmalarını ve proje sürecini yürüttüm.|As researcher and team lead, I coordinated the integration of hardware, IoT infrastructure and AI components, managing the team's technical work and project process.
+03 / SONUÇ|03 / OUTCOME
+Tamamlanan araştırma|Completed research
+Donanım ile yapay zekâ çıkarım modüllerinin birlikte çalışmasına odaklanan TÜBİTAK 2209-A projesi tamamlandı.|The TÜBİTAK 2209-A project, focused on integrating hardware and AI inference modules, was completed.
+DAHA FAZLA ÇALIŞMA|MORE WORK
+BİLGİSAYARLI GÖRÜ|COMPUTER VISION
+L3, L4 ve L5 vertebralarını ve anatomik anahtar noktaları belirlemeye yönelik devam eden çalışma.|An ongoing study to identify L3, L4 and L5 vertebrae and anatomical keypoints.
+01 / ÇALIŞMANIN ODAĞI|01 / FOCUS
+Görüntüden anatomik konuma|From images to anatomical locations
+Çalışma, omurga grafilerinde L3, L4 ve L5 vertebralarının konumlarının ve anatomik anahtar noktalarının belirlenmesine odaklanıyor.|The study focuses on locating L3, L4 and L5 vertebrae and anatomical keypoints in spinal radiographs.
+02 / GÖRSELİ OKUMAK|02 / READING THE VISUAL
+Sınır kutuları ve anahtar noktalar|Bounding boxes and keypoints
+Yukarıdaki temsili şema, hedeflenen çıktıyı anlatıyor: vertebraların çevresindeki sınır kutuları ve anatomik konumları işaretleyen noktalar. Gerçek bir model tahmini veya hasta görüntüsü değildir.|The illustration above shows the intended output: bounding boxes around vertebrae and points marking anatomical locations. It is not a real model prediction or patient image.
+03 / GÜNCEL DURUM|03 / CURRENT STATUS
+Araştırma devam ediyor|Research in progress
+Çalışma henüz tamamlanmadı. Bu sayfada model başarımı veya klinik kullanım iddiası sunulmuyor.|The study is not yet complete. This page makes no claims about model performance or clinical use.
+SEÇİLİ ÇALIŞMALAR VE DENEYLER|SELECTED PROJECTS AND EXPERIMENTS
+Projeler ve|Projects and
+üretimler.|experiments.
+Yapay zekâ modelleri, bellek içi sistemler, bilgisayarlı görü çalışmaları ve uygulamalar. Her birinde ne yaptığımı açıkça anlattım.|AI models, in-memory systems, computer vision studies and applications. Each project explains my contribution.
+Tümü|All
+Görüntü|Vision
+Uygulamalar|Applications
+9 çalışma|9 projects
+Afet ihtiyaçlarını kategori ve aciliyet düzeyine göre değerlendiren sistemin mikroservis mimarisini kurdum ve modelini eğittim.|I built the microservice architecture and trained the model for a system that assesses disaster needs by category and urgency.
+Ayrıntıyı gör|View details
+SİSTEM TASARIMI|SYSTEM DESIGN
+Redis mimarisinden ilham alan, hafif ve bellek içinde çalışan anahtar değer depolama sistemi.|A lightweight in-memory key–value store inspired by Redis architecture.
+DOĞAL DİL İŞLEME|NATURAL LANGUAGE PROCESSING
+Sosyal medya metinlerinde saldırgan ve toksik ifadelerin sınıflandırılması için veri hazırlama, model eğitimi ve değerlendirme.|Data preparation, model training and evaluation for offensive and toxic social media text classification.
+ARAŞTIRMA / IoT|RESEARCH / IoT
+Kapalı alanlarda saldırgan tespiti|Indoor aggressor detection
+Donanım, IoT ve yapay zekâ bileşenlerini birleştiren TÜBİTAK 2209-A araştırma projesi. Tamamlandı.|A completed TÜBİTAK 2209-A research project combining hardware, IoT and AI components.
+Temsili anotasyon şeması|Illustrative annotation diagram
+L3, L4 ve L5 vertebralarıyla anatomik anahtar noktaların belirlenmesine yönelik devam eden çalışma.|An ongoing study to identify L3, L4 and L5 vertebrae and anatomical keypoints.
+Temsili anotasyon görünümü|Illustrative annotation view
+Ekip çalışmasında veri etiketleme ve tespit sürecine katkı sağladım. Kamera entegrasyonu ve test aşamaları bekleniyor.|I contributed to data annotation and detection in a team project. Camera integration and testing are pending.
+Temsili içerik akışı|Illustrative content workflow
+Konuya uygun görsel ve metin hazırlayan, içeriği seçilen tasarıma uyarlayıp platformda yayınlama akışı sunan uygulama.|An application that prepares topic-based text and visuals, adapts content to a design and provides a publishing workflow.
+Temsili belge incelemesi|Illustrative document review
+Raporları analiz edip güçlü ve zayıf yönleri belirleyen, geliştirme önerileri sunan araç.|A tool that analyzes reports, identifies strengths and weaknesses, and suggests improvements.
+Temsili oyun görünümü|Illustrative game view
+Mangala ve Quoridor mobil oyunlarını geliştirdim; görsel tasarım, sesler ve oynanış bileşenlerini bir araya getirdim.|I developed mobile Mangala and Quoridor games, bringing together visual design, sound and gameplay.
+KAYNAĞIYLA BİRLİKTE|WITH THE SOURCE
+Raporlanan|Reported
+kontroller.|checks.
+Başarılı otomatik test|Passing automated tests
+%75,09|75.09%
+Backend test kapsamı|Backend test coverage
+Train / valid / test birebir metin kesişimi|Exact text overlap across train / validation / test
+Bu değerler deponun README dosyasında raporlanmıştır; bu portföy çalışmasında yeniden ölçülmemiştir. Test kapsamı, model doğruluğu değildir.|These figures are reported in the repository README; they were not remeasured for this portfolio. Test coverage is not model accuracy.
+Model kartında doğrulanmış bir nihai F1 veya accuracy sonucu bulunmadığı için başarı yüzdesi paylaşılmıyor. Manifestli uyumlu model yoksa uygulama yalnızca kurallarla çalışır; bu durum gerçek model tahmini olarak sunulmaz.|The model card contains no verified final F1 or accuracy score, so no performance percentage is reported. Without a compatible model and manifest, the application runs in rules-only mode, which is not presented as a model prediction.
+Raporun kaynağı ↗|Report source ↗
+Model kartı ↗|Model card ↗
+Kaynak sürümü: d831b8f · İnceleme: 16 Kasım 2026|Source revision: d831b8f · Reviewed: 16 November 2026
+Sayfa bulunamadı|Page not found
+404 / SAYFA BULUNAMADI|404 / PAGE NOT FOUND
+Bu yol bir yere|This path leads
+çıkmıyor.|nowhere.
+Bağlantı değişmiş veya sayfa kaldırılmış olabilir. Çalışmalarıma ana sayfadan ulaşabilirsiniz.|The link may have changed or the page may have moved. Find my work on the home page.
+Ana sayfaya dön ↗|Back to home ↗
+Projeleri incele ↗|Explore projects ↗
+Afet sonrası ihtiyaç önceliklendirme projesini incele|Explore the post-disaster needs prioritization project
+Ana menü|Main navigation
+Aradığınız sayfa bulunamadı. Hasan Yazar portföyüne geri dönün.|The page could not be found. Return to Hasan Yazar's portfolio.
+Belge üzerinde güçlü yönler ve geliştirme önerileri gösteren temsili rapor değerlendirmesi|Illustrative report review highlighting strengths and suggested improvements
+Bir iç mekânda kişi sınır kutularını gösteren temsili anotasyon görünümü|Illustrative annotation showing bounding boxes around people indoors
+Dil seçimi|Language selection
+Eğitim, araştırma deneyimi ve teknik yetkinlikler.|Education, research experience and technical skills.
+GitHub deposundaki gerçek sınıf dağılımı: 52.657 normal, 45.701 saldırgan metin|Original class distribution from GitHub: 52,657 normal and 45,701 offensive texts
+GitHub deposundaki orijinal eğitim, doğrulama ve test veri dağılımı grafiği|Original training, validation and test split chart from GitHub
+Görüntü tabanlı personel tespiti için temsili proje çizimi|Illustration of the image-based personnel detection project
+Hasan Yazar ile proje, araştırma veya iş birliği için iletişime geçin.|Contact Hasan Yazar about projects, research or collaboration.
+Hasan Yazar'ın bellek içi anahtar değer depolama sistemi Mini Redis.|Mini Redis, Hasan Yazar's in-memory key–value store.
+Hasan Yazar'ın bilgisayar mühendisliği eğitimi, çalışma yaklaşımı ve teknik yetkinlikleri.|Hasan Yazar's computer engineering education, approach and technical skills.
+Hasan Yazar'ın bilgisayar mühendisliği, yapay zekâ ve yazılım geliştirme portföyü. Projeler, araştırma çalışmaları ve teknik yetkinlikler.|Hasan Yazar's computer engineering, AI and software development portfolio. Projects, research and technical skills.
+Hasan Yazar'ın derin öğrenme ile sosyal medyada saldırgan içerik tespiti çalışması.|Hasan Yazar's deep learning project for offensive content detection on social media.
+Hasan Yazar'ın tamamlanan TÜBİTAK 2209-A kapalı alanlarda saldırgan tespiti araştırma projesi.|Hasan Yazar's completed TÜBİTAK 2209-A research on indoor aggressor detection.
+Hasan Yazar'ın yapay zekâ tabanlı afet sonrası ihtiyaç önceliklendirme projesi.|Hasan Yazar's AI-based project for post-disaster needs prioritization.
+Hasan Yazar'ın yapay zekâ, sistem tasarımı, bilgisayarlı görü ve uygulama projeleri.|Hasan Yazar's AI, system design, computer vision and application projects.
+Kapalı alan, kişi sınır kutusu ve IoT analiz zincirinin temsili çizimi|Illustration of an indoor space, a person's bounding box and an IoT analysis pipeline
+Kod, yapay zekâ işlemcisi ve veri katmanlarından oluşan üç boyutlu yazılım mimarisi|Three-dimensional software architecture with code, an AI processor and data layers
+Komut geçmişi|Command history
+Konu seçimi, içerik taslağı ve görsel düzenleme akışının temsili görünümü|Illustration of topic selection, content drafting and visual editing
+L3, L4 ve L5 vertebralarının sınır kutuları ve anahtar noktalarını gösteren anatomik şema|Anatomical diagram showing bounding boxes and keypoints for L3, L4 and L5 vertebrae
+Mangala ve Quoridor için temsili proje çizimi|Illustration of the Mangala and Quoridor projects
+Mangala çukurları ve taşları ile dokuz çarpı dokuz Quoridor tahtasının çizimi|Drawing of Mangala pits and stones alongside a nine-by-nine Quoridor board
+Menüyü aç|Open menu
+MiniRedis README komut örnekleri ve TCP, komut yönlendirme, bellek akışı|MiniRedis README command examples and the TCP, command routing and memory flow
+Omurga grafilerinde vertebra tespiti için temsili proje çizimi|Illustration of vertebra detection in spinal radiographs
+Proje ve iş birliği için iletişime geçin.|Get in touch about projects and collaboration.
+Rapor değerlendirme aracı için temsili proje çizimi|Illustration of the report review tool
+Saldırgan içerik tespiti projesini incele|Explore the offensive content detection project
+Sosyal medya içerik üretimi ve yayınlama için temsili proje çizimi|Illustration of social media content creation and publishing
+Veri, model ve ürün katmanlarının bir araya gelişini gösteren üç boyutlu çizim|Three-dimensional illustration of data, model and product layers coming together
+Veriden çalışan sisteme. Yapay zekâ ve yazılım geliştirme portföyü.|From data to working systems. An AI and software development portfolio.
+Yapay zekâ, sistem tasarımı ve uygulama projeleri.|AI, system design and application projects.
+dünya|dünya
+Örnek Türkçe mesaj ve geç, incele, uyarı seçeneklerinden oluşan temsili moderasyon akışı|Illustrative moderation flow with a Turkish message and pass, review and warn outcomes
+Örnek komut ve yanıt|Example command and response
+Örnek komutu doldur|Fill an example command
+Özgeçmiş indir|Download resume
+Şematik harita, ihtiyaç kategorileri ve önceliklendirme kuyruğu|Schematic map, categories of needs and a prioritization queue
+Hasan Yazar ana sayfa|Hasan Yazar home
+Projeleri filtrele|Filter projects
+Bellekteki anahtarlar|Keys in memory
+Mini Redis projesini incele|Explore the Mini Redis project

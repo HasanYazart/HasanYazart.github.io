@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Metin sınıflandırma akışı</title><desc id="desc">Ham metnin temizlenmesi, modele aktarılması ve sınıflandırılması aşamaları.</desc>
+  <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#dbdbdd"/></pattern></defs>
+  <rect width="640" height="400" rx="18" fill="#eeeeef"/><rect width="640" height="400" rx="18" fill="url(#grid)" opacity=".8"/>
+  <path d="M191 200h54M395 200h54" stroke="#5f4ec9" stroke-width="3" stroke-dasharray="8 7"/><path d="M236 193l10 7-10 7M440 193l10 7-10 7" fill="none" stroke="#5f4ec9" stroke-width="3"/>
+  <rect x="35" y="132" width="155" height="138" rx="14" fill="#fff" stroke="#a6a4ab" stroke-width="2"/><rect x="246" y="132" width="150" height="138" rx="14" fill="#fff" stroke="#a6a4ab" stroke-width="2"/><rect x="450" y="132" width="155" height="138" rx="14" fill="#25232e"/>
+  <g stroke="#a2a1a7" stroke-width="5" stroke-linecap="round"><path d="M60 167h100M60 184h78M60 201h94M60 218h62"/><path d="M272 168h96M272 185h72M272 202h85"/></g>
+  <path d="M483 191h89M483 211h58" stroke="#8c8999" stroke-width="6" stroke-linecap="round"/><circle cx="558" cy="237" r="10" fill="#8677df"/>
+  <g fill="#4e4c55" font-family="Arial,sans-serif" font-size="14" font-weight="700"><text x="70" y="309">HAM METİN</text><text x="277" y="309">İŞLEME</text><text x="469" y="309">SINIFLANDIRMA</text></g><text x="36" y="42" fill="#73707d" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">03 / LANGUAGE PIPELINE</text>
+</svg>

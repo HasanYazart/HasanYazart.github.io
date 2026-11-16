@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hasanyazart.github.io/sitemap.xml

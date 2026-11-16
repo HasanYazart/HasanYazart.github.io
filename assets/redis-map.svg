@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Mini Redis bellek içi depolama çizimi</title><desc id="desc">İstemcinin anahtar değer deposuna veri yazdığı ve okuduğu akış.</desc>
+  <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#dbdbdd"/></pattern></defs>
+  <rect width="640" height="400" rx="18" fill="#efeef0"/><rect width="640" height="400" rx="18" fill="url(#grid)" opacity=".8"/>
+  <rect x="48" y="125" width="155" height="153" rx="16" fill="#fff" stroke="#b0afb4" stroke-width="2"/><rect x="289" y="92" width="300" height="219" rx="16" fill="#25232e"/>
+  <rect x="78" y="153" width="95" height="69" rx="6" fill="#ebebec" stroke="#8e8c95"/><path d="M97 174h58M97 188h39M97 202h50" stroke="#7b7983" stroke-width="4" stroke-linecap="round"/>
+  <path d="M207 177h70M277 177l-12-8M277 177l-12 8M275 226h-68M207 226l12-8M207 226l12 8" fill="none" stroke="#5f4ec9" stroke-width="3"/>
+  <g fill="#383542" stroke="#9e9ca7"><rect x="321" y="124" width="236" height="43" rx="6"/><rect x="321" y="181" width="236" height="43" rx="6"/><rect x="321" y="238" width="236" height="43" rx="6"/></g>
+  <g fill="#fff" font-family="Consolas,monospace" font-size="15"><text x="341" y="151">user:001</text><text x="341" y="208">cache:status</text><text x="341" y="265">session:42</text></g>
+  <g fill="#8779df"><circle cx="528" cy="146" r="6"/><circle cx="528" cy="203" r="6"/><circle cx="528" cy="260" r="6"/></g>
+  <text x="82" y="259" fill="#4b4952" font-family="Arial,sans-serif" font-size="14" font-weight="700">İSTEMCİ</text><text x="323" y="338" fill="#4b4952" font-family="Arial,sans-serif" font-size="14" font-weight="700">BELLEK İÇİ ANAHTAR / DEĞER</text><text x="36" y="42" fill="#73707d" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">02 / IN-MEMORY STORE</text>
+</svg>

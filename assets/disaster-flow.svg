@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+  <title id="title">Afet ihtiyaç önceliklendirme akışı</title><desc id="desc">İhtiyaç verisi, sınıflandırma ve kaynak planlama aşamalarını gösteren diyagram.</desc>
+  <defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#dbdbdd"/></pattern></defs>
+  <rect width="640" height="400" rx="18" fill="#eeeeef"/><rect width="640" height="400" rx="18" fill="url(#grid)" opacity=".7"/>
+  <path d="M132 200h89M419 200h89" stroke="#5f4ec9" stroke-width="3" stroke-dasharray="8 7"/><path d="M211 193l10 7-10 7M498 193l10 7-10 7" fill="none" stroke="#5f4ec9" stroke-width="3"/>
+  <rect x="35" y="137" width="118" height="126" rx="14" fill="#fff" stroke="#afaeb3" stroke-width="2"/><rect x="233" y="115" width="174" height="170" rx="14" fill="#25232e" stroke="#25232e" stroke-width="2"/><rect x="507" y="137" width="98" height="126" rx="14" fill="#fff" stroke="#afaeb3" stroke-width="2"/>
+  <path d="M61 170h66M61 187h46M61 204h58" stroke="#a3a1a8" stroke-width="5" stroke-linecap="round"/><circle cx="94" cy="230" r="10" fill="#5f4ec9"/>
+  <circle cx="320" cy="177" r="28" fill="none" stroke="#8677df" stroke-width="2"/><path d="M303 177h34M320 160v34" stroke="#8677df" stroke-width="2"/><path d="M267 234h106" stroke="#817e8c" stroke-width="2"/><path d="M284 248h72" stroke="#817e8c" stroke-width="2"/>
+  <path d="M532 173l21 18 28-35M532 222h47" fill="none" stroke="#5f4ec9" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="42" y="309" fill="#4b4952" font-family="Arial,sans-serif" font-size="14" font-weight="700">İHTİYAÇ</text><text x="264" y="325" fill="#4b4952" font-family="Arial,sans-serif" font-size="14" font-weight="700">ÖNCELİKLENDİRME</text><text x="501" y="309" fill="#4b4952" font-family="Arial,sans-serif" font-size="14" font-weight="700">KAYNAK</text>
+  <text x="36" y="42" fill="#73707d" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">01 / SERVICE FLOW</text>
+</svg>

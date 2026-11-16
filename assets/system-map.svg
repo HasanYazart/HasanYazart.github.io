@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 540" role="img" aria-labelledby="title desc">
+  <title id="title">Veriden çalışan sisteme</title>
+  <desc id="desc">Veri, model ve yazılım katmanlarının birbirine bağlandığı teknik çizim.</desc>
+  
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#313038" stroke-width="1"/></pattern>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1l5 3-5 3" fill="none" stroke="#8475e0" stroke-width="1.5"/></marker>
+  </defs>
+  <rect x="1" y="1" width="638" height="538" rx="18" fill="#1b1a20" stroke="#46444d" stroke-width="2"/>
+  <rect x="1" y="1" width="638" height="538" rx="18" fill="url(#grid)" opacity=".62"/>
+  <path d="M0 70h640M54 0v540" stroke="#3e3c44"/>
+  <circle cx="28" cy="35" r="5" fill="#8475e0"/><circle cx="47" cy="35" r="5" fill="#86848f"/><circle cx="66" cy="35" r="5" fill="#86848f"/>
+  <text x="90" y="39" fill="#a4a2ab" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">SYSTEM / 001</text>
+  <text x="72" y="110" fill="#cfced5" font-family="Arial,sans-serif" font-size="11" letter-spacing="3">MÜHENDİSLİK AKIŞI</text>
+  <path class="flow" d="M151 260h86M379 260h83" fill="none" stroke="#8475e0" stroke-width="2.5" stroke-dasharray="8 6" marker-end="url(#arrow)"/>
+  <path d="M122 216v-53h156M340 198v-35h182v52" fill="none" stroke="#65636e" stroke-width="1.5" stroke-dasharray="5 7"/>
+  <circle cx="122" cy="162" r="5" fill="#8475e0"/><circle cx="278" cy="162" r="4" fill="#817e8e"/><circle cx="522" cy="162" r="5" fill="#8475e0"/>
+  <g id="stage-data"><rect x="62" y="214" width="150" height="94" rx="13" fill="#27252d" stroke="#827f8d" stroke-width="2"/><circle cx="92" cy="244" r="10" fill="none" stroke="#8475e0" stroke-width="2"/><path d="M85 244h14M92 237v14" stroke="#8475e0" stroke-width="2"/><text x="82" y="286" fill="#e9e9ec" font-family="Arial,sans-serif" font-size="16" font-weight="700">VERİ</text></g>
+  <g id="stage-model"><rect x="246" y="198" width="152" height="126" rx="13" fill="#312f38" stroke="#8475e0" stroke-width="2"/><path d="M290 238l20-12 20 12v24l-20 12-20-12zM330 238l20-12 20 12v24l-20 12-20-12zM310 250h40" fill="none" stroke="#8475e0" stroke-width="1.8"/><text x="282" y="303" fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">MODEL</text></g>
+  <g id="stage-system"><rect x="432" y="214" width="150" height="94" rx="13" fill="#27252d" stroke="#827f8d" stroke-width="2"/><rect x="462" y="235" width="42" height="30" rx="3" fill="none" stroke="#8475e0" stroke-width="2"/><path d="M468 247h28M468 254h17" stroke="#8475e0" stroke-width="2"/><text x="452" y="286" fill="#e9e9ec" font-family="Arial,sans-serif" font-size="16" font-weight="700">SİSTEM</text></g>
+  <path d="M135 354v22h190v32M505 354v22H325v32" fill="none" stroke="#65636e" stroke-width="1.5"/>
+  <circle cx="325" cy="410" r="7" fill="#8475e0"/><circle class="signal" cx="325" cy="410" r="17" fill="none" stroke="#8475e0" opacity=".4"/>
+  <text x="71" y="465" fill="#b3b1bb" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">INPUT</text><text x="281" y="465" fill="#8475e0" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">PROCESS</text><text x="490" y="465" fill="#b3b1bb" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">OUTPUT</text>
+  <path d="M71 480h130M256 480h130M441 480h130" stroke="#595762" stroke-width="2"/>
+</svg>
